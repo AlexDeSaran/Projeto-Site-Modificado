@@ -22,14 +22,14 @@ h1 {
     font-size: 3em;
     height: 80px;
     color: rgb(0, 0, 0);
-    text-shadow:#685e5e 2px 3px 2px;
+    text-shadow:#685e5e 2px 2px 2px;
 }
 
 h2 {
     font-size: 1.5em;
     height: 40px;
     color: rgb(0, 0, 0);
-    text-shadow:#685e5e 2px 3px 2px;
+    text-shadow:#685e5e 2px 1px 2px;
 }
 
 img.lado {
@@ -39,6 +39,13 @@ img.lado {
 a{
     font-family: Arial, Helvetica, 'Courier New', Courier, monospace;
     height: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+p{
+    font-family: Arial, Helvetica, 'Courier New', Courier, monospace;
+    height: 60px;
     text-decoration: none;
     font-weight: bold;
     color: rgb(0, 0, 0);
